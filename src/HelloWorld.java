@@ -14,7 +14,11 @@ public class HelloWorld {
 
 		System.out.println("---------");
 		String s3 = "test push";
-
+		System.out.println(s3);
+		System.out.println("-------");
+		
+		
+		System.out.println("test2");
 		System.out.println(s2);
 		scanner.close();
 
