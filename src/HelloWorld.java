@@ -18,7 +18,7 @@ public class HelloWorld {
 		System.out.println("-------");
 		
 		
-		System.out.println("test2");
+		System.out.println("inside branc");
 		System.out.println(s2);
 		scanner.close();
 
