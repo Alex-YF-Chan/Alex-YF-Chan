@@ -9,7 +9,7 @@ public class HelloWorld {
 		String s1 = scanner.next();
 		System.out.println("---------");
 		System.out.println(s1);
-		String s2 = "test push";
+		String s2 = "test push12";
 		System.out.println(s2);
 		scanner.close();
 
