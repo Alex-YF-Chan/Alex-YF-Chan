@@ -17,8 +17,9 @@ public class HelloWorld {
 		System.out.println(s3);
 		System.out.println("-------");
 		
-		
-		System.out.println("inside branc");
+		String merger = "merger";
+		System.out.println(merger);
+		System.out.println("inside branch");
 		System.out.println(s2);
 		scanner.close();
 
