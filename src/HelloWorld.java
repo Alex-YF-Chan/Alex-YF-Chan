@@ -10,7 +10,7 @@ public class HelloWorld {
 		System.out.println("---------");
 		System.out.println(s1);
 
-		String s2 = "test push12";
+		String s2 = "test push1234567899";
 
 		System.out.println("---------");
 		String s3 = "test push";
